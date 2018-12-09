@@ -1,0 +1,28 @@
+html {
+	height: 100%;
+}
+
+body{
+	background-image: url(backgroundimage.jpg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	color: white;
+}
+
+#texts {
+	text-align: center;
+	padding-top: 18%;
+}
+
+#button {
+	text-align: center;
+	padding-top: 12%;
+}
+
+hr {
+	width: 80px;
+	background-color: #ff1a1a;
+	border-top: 1px solid #ff1a1a;
+	border-bottom: 1px solid #ff1a1a;
+}
